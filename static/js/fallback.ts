@@ -12,10 +12,12 @@ const themes = {
     light: {
         "--background-color": "#F5F5F5",
         "--text-color": "#222222",
+        "--font-body": `"Inter", sans-serif`
     },
     dark: {
         "--background-color": "#121212",
         "--text-color": "#E0E0E0",
+        "--font-body": `"Inter", sans-serif`
     }
 }
 const themeSelector = document.getElementById('theme-selector') as HTMLSelectElement;

@@ -1,6 +1,9 @@
 ### link to site: 
 https://cse134-hw4.netlify.app/
 
+### link to SSG site:
+https://cse134-hw4-ssg.netlify.app/
+
 ### link to github:
 https://github.com/kiminus/cse134-HW4
 
@@ -137,6 +140,7 @@ indicating that the button is not functional.
 ![img.png](static/images/theme_switch_no_js.png)
 
 ### part 5
+> https://cse134-hw4-ssg.netlify.app/ is the SSG site
 - I used 11ty to generate the site. to run it, please use the latest version (>22) of node.js
 and run the following command:
 ```bash
